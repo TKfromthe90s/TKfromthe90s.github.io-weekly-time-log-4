@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+## Weekly Time Log 4
 
-You can use the [editor on GitHub](https://github.com/TKfromthe90s/TKfromthe90s.github.io-weekly-time-log-4/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Date 10-5-2020
+- Hours Spent: 0
+- Work Description: Zero Day due to other coursework, as has become standard
 
-### Markdown
+# Date 10-6-2020
+- Hours Spent: 4
+- Work Description: Spent additional time watching Unreal Engine 4 tutorial videos and reading UNreal Engine 4 Tutorial articles
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Date 10-7-2020
+- Hours Spent: 5
+- Work Description: Determined that existing fully 2D side scroller template provided by Unreal would not provide opportunities to achieve desired mechanics
+- Chose to make use of 2.5D side scroller template provided by Unreal
+- Spent time translating progress made on initial template to new template
 
-```markdown
-Syntax highlighted code block
+# Date 10-8-2020
+- Hours Spent: 6
+- Work Description: Spent time perusing asset store to assemble a list of free assets that could assist in the development of the game
+- Spent time cross-referencing this list of assets with list of requested additional features obtained from playtesters
+- Spent time cross-referencing list of assets with original concept for game
+- Spent time downloading those assets which satisfied both lists
 
-# Header 1
-## Header 2
-### Header 3
+# Date 10-9-2020
+- Hours Spent: 0
+- Work Description: Zero Day to begin preparations for midterm exam in another course
 
-- Bulleted
-- List
+# Date 10-10-2020
+- Hours Spent: 0
+- Work Description: Zero Day to make additional preparations for midterm exam
 
-1. Numbered
-2. List
+# Date 10-11-2020
+- Hours Spent: 0
+- Work Description: Zero Day to make final preparations for midterm exam and to take the midterm exam itself
 
-**Bold** and _Italic_ and `Code` text
+# Total Hours Spent
+- 70
 
-[Link](url) and ![Image](src)
+[Return to Time Logs](https://tkfromthe90s.github.io/TKfromthe90s.github.io-weekly-time-logs/)
+[Return to Homepage](https://tkfromthe90s.github.io/)
+
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TKfromthe90s/TKfromthe90s.github.io-weekly-time-log-4/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
